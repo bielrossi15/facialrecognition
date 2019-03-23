@@ -1,4 +1,4 @@
-# Facial_recognition
+# Smile recognition
 Using OpenCV library to find faces
 
 ## Required ##
