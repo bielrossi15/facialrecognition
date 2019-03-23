@@ -1,5 +1,5 @@
 # Smile recognition
-Using OpenCV library to find faces
+Using OpenCV library to find smiles
 
 ## Required ##
 
